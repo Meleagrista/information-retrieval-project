@@ -1,0 +1,569 @@
+luck or alea: all those game elements independent of player intervention, introduced by game mechanics outside the control of the players.
+Fortune
+Chance
+Serendipity
+Fate
+Providence
+Destiny
+Blessing
+Opportunity
+Fluke
+Stroke of luck
+Windfall
+Break
+Success
+Prosperity
+Auspiciousness
+Gamble
+Win
+Bonanza
+Serendipitous
+Happy-go-lucky
+Chance
+Luck
+Gamble
+Risk
+Hazard
+Fortuity
+Uncertainty
+Probability
+Venture
+Fate
+Randomness
+Serendipity
+Coincidence
+Fluke
+Opportunity
+Stroke of luck
+Destiny
+Game of chance
+Lottery
+Wager
+Chance
+Arbitrary
+Unpredictable
+Haphazard
+Casual
+Unplanned
+Indiscriminate
+Accidental
+Serendipitous
+Fortuitous
+Unexpected
+Whimsical
+Erratic
+Hit-or-miss
+Unsystematic
+Chaotic
+Unforeseen
+Coincidental
+Spontaneous
+Irregular
+bookkeeping: manual recording of data and potentially automatic or semi-automatic game processes, including also the need of continuosly accessing the rulebook for reference.
+Resource management
+Tracking resources
+Scorekeeping
+Points management
+Asset tracking
+Currency management
+Inventory management
+Financial tracking
+Record-keeping
+Resource allocation
+Transaction management
+Income tracking
+Expense tracking
+Balance sheet
+Player accounts
+Cash flow management
+Financial statements
+Financial strategy
+Economic management
+Budgeting
+Game guide
+Game manual
+Instruction manual
+Game rule guide
+Gaming rulebook
+Rule guide
+Game rulebook
+Player's guide
+Gameplay manual
+Game regulations
+Game instructions
+Rule set
+Gaming handbook
+Game reference
+Game companion
+Player's handbook
+Rule compendium
+Game encyclopedia
+Gaming reference
+Rule digest
+downtime: unproductive waiting time between one player turn and the next. By unproductive we mean not only having nothing (or little) to do, but also nothing (or little) to think about.
+Break
+Rest
+Pause
+Respite
+Intermission
+Interval
+Breather
+Relaxation
+Time off
+Leisure
+Lull
+Reprieve
+Recreation
+Unwind
+Refreshment
+Regeneration
+Relaxing period
+Free time
+Recess
+Off-time
+Tedious
+Dull
+Monotonous
+Uninteresting
+Tiresome
+Mundane
+Repetitive
+Lackluster
+Drab
+Insipid
+Flat
+Lifeless
+Unexciting
+Stale
+Dry
+Tiring
+Wearisome
+Lame
+Banal
+Ho-hum
+interaction: the degree of influence that one player's actions have on the actions of the other participants.
+Communication
+Engagement
+Connection
+Involvement
+Collaboration
+Interplay
+Participation
+Association
+Socialization
+Cooperation
+Exchange
+Relationship
+Interactiveness
+Interconnection
+Intercommunication
+Reciprocity
+Interactivity
+Interrelation
+Inclusion
+Interchange
+Impact
+Power
+Effect
+Authority
+Control
+Sway
+Dominance
+Persuasion
+Leverage
+Clout
+Manipulation
+Supremacy
+Ascendancy
+Guidance
+Command
+Pressure
+Dominion
+Governance
+Hold
+Sovereignty
+bash the leader: when, to prevent the victory of whoever is first, the players are forced to take actions against him, often to the detriment of their own advantage or in any case without gaining anything directly. At the table, the unfortunate situation can arise whereby one or more must "sacrifice" themselves to curb the leader and let the others benefit from this conduct.
+Chief
+Head
+Director
+Captain
+Commander
+Manager
+Supervisor
+Executive
+President
+CEO (Chief Executive Officer)
+Principal
+Superintendent
+Boss
+Controller
+Team leader
+Guide
+Champion
+Ruler
+Mentor
+Trailblazer
+Unavoidable
+Certain
+Imminent
+Inescapable
+Bound to happen
+Fated
+Irrevocable
+Unpreventable
+Determined
+Inevitable
+Predestined
+Sure
+Decreed
+Fixed
+Unalterable
+Destiny
+Unquestionable
+Settled
+Necessitated
+Indisputable
+Offering
+Surrender
+Giving up
+Renunciation
+Forfeit
+Abandonment
+Loss
+Selflessness
+Devotion
+Martyrdom
+Donation
+Submission
+Disposal
+Abnegation
+Immolation
+Dedication
+Expenditure
+Act of self-sacrifice
+Abjuration
+Relinquishment
+complicated vs complex: A game is complicated the more the rules are quantitatively many and qualitatively equipped with exceptions. Once you understand and learn all the variables, a game (that is only) complicated is not difficult to master. In a complicated game, solving a problem leads to immediate, certain and predictable results.
+A game is as complex as the repercussions of one's actions are difficult to predict and master. Even once you understand and learn all the variables, a complex game is still difficult to master. In a complex game, solving one problem leads to other problems. 
+Complicated
+Intricate
+Elaborate
+Sophisticated
+Multi-faceted
+Involved
+Detailed
+Confusing
+Dense
+Knotty
+Challenging
+Puzzling
+Difficult
+Confounding
+Byzantine
+Intriguing
+Nuanced
+Complicated
+Perplexing
+Ambiguous
+Complex
+Intricate
+Difficult
+Involved
+Elaborate
+Sophisticated
+Challenging
+Perplexing
+Confusing
+Knotty
+Convoluted
+Tangled
+Intricate
+Hard
+Troublesome
+Puzzling
+Daunting
+Dense
+Arduous
+Thorny
+Expertise
+Proficiency
+Competence
+Ability
+Talent
+Mastery
+Aptitude
+Capability
+Craftsmanship
+Dexterity
+Know-how
+Skillfulness
+Prowess
+Gift
+Savvy
+Technique
+Knack
+Flair
+Artistry
+Acumen
+Complex
+Complicated
+Intricate
+Byzantine
+Knotty
+Tangled
+Twisted
+Confusing
+Involved
+Tortuous
+Perplexing
+Confounded
+Intricate
+Circuitous
+Serpentine
+Intricately woven
+Complicatedly structured
+Labyrinthine
+Meandering
+Intricately layered
+Challenging
+Hard
+Tough
+Arduous
+Demanding
+Laborious
+Strenuous
+Daunting
+Trying
+Complex
+Tricky
+Problematic
+Formidable
+Rigorous
+Herculean
+Thorny
+Testing
+Struggling
+Burdensome
+Taxing
+Acquire
+Gain knowledge
+Absorb
+Grasp
+Understand
+Comprehend
+Study
+Educate
+Master
+Discover
+Adapt
+Train
+Pick up
+Develop
+Improve
+Enhance
+Familiarize
+Explore
+Instruct
+Assimilate
+Monotonous
+Boring
+Repetitive
+Tiresome
+Dull
+Wearisome
+Slog
+Drab
+Dreary
+Laborious
+Fatiguing
+Arduous
+Tiring
+Mind-numbing
+Long-winded
+Protracted
+Irksome
+Uninteresting
+Plodding
+Slow-paced
+Difficult
+Tedious
+Convoluted
+Skill
+Simple
+Effortless
+Straightforward
+Uncomplicated
+Basic
+Undemanding
+Painless
+Smooth
+Trouble-free
+Elementary
+Breezy
+Piece of cake
+Manageable
+User-friendly
+Walk in the park
+No sweat
+Unchallenging
+Light
+Seamless
+Quick and easy
+Captivating
+Enthralling
+Gripping
+Compelling
+Interesting
+Fascinating
+Entertaining
+Absorbing
+Intriguing
+Stimulating
+Charming
+Enchanting
+Delightful
+Mesmerizing
+Alluring
+Spellbinding
+Immersive
+Exciting
+Thought-provoking
+Interactive
+Engagement
+Involvement
+Participation
+Commitment
+Active involvement
+Enthusiasm
+Dedication
+Immersion
+Connection
+Interactivity
+Interaction
+Contribution
+Engagement
+Interest
+Empowerment
+Presence
+Variation
+Adaptation
+Edition
+Variant
+Release
+Iteration
+Form
+Variation
+Variation
+Edition
+Interpretation
+Variation
+Edition
+Rendition
+Revision
+Modification
+Update
+Upgrade
+Alternative
+Variation
+Growth
+Extension
+Enlargement
+Increase
+Expansion
+Development
+Augmentation
+Expansion
+Progress
+Advancement
+Scaling up
+Amplification
+Broadening
+Spread
+Evolvement
+Escalation
+Upsizing
+Enhancement
+Upsurge
+Diversification
+Addition
+Supplement
+Extension
+Inclusion
+Annexation
+Appendage
+Extra
+Augmentation
+Increase
+Enhancement
+Expansion
+Accrual
+Increment
+Attachment
+Enlargement
+Bonus
+Add-on
+Upsize
+Gain
+Furtherance
+Plus
+Single-player
+Solitary
+Individual
+Solo play
+One-player
+Alone
+Lone
+Independent
+Solo mode
+Solo gaming
+Solo experience
+Solo adventure
+Solitaire
+Self-play
+Solo campaign
+Solo challenge
+Single-player mode
+One-man show
+Solus
+Isolated
+Cooperative
+Co-op
+Team-based
+Collaborative
+Working together
+Collective
+Joint effort
+Mutual
+Group work
+Partnership
+Collaborating
+Synergy
+Combined
+Unified
+Allied
+Joint endeavor
+Shared
+Communal
+Consort
+Collaboration
+Equilibrium
+Stability
+Harmony
+Symmetry
+Proportion
+Equality
+Fairness
+Evenness
+Counterbalance
+Poise
+Composure
+Moderation
+Consistency
+Rectitude
+Impartiality
+Neutrality
+Steadiness
+Accord
+Serenity
+Control
+Balance

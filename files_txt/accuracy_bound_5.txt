@@ -1,0 +1,22 @@
+ACCURACY: 68.75%
+
+POSSITIVE ACCURACY: 64.71%
+NEGATIVE ACCURACY: 70.35%
+
+COMPLEX OR COMPLICATED:
+Counter({'🟢': 23, '🟡': 11, '🔴': 3})
+
+LUCK:
+Counter({'🟢': 8, '🟡': 2})
+
+INTERACTION:
+Counter({'🔴': 10, '🟡': 8, '🟢': 4})
+
+BASH THE LEADER:
+Counter({'🟡': 8, '🟢': 2, '🔴': 2})
+
+DOWNTIME:
+Counter({'🟡': 10, '🔴': 5, '🟢': 1})
+
+BOOKEEPING:
+Counter({'🟡': 12, '🟢': 6, '🔴': 4})

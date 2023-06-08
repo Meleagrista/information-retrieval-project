@@ -1,0 +1,240 @@
+abstract
+abstract strategy game
+accessory
+acting game
+action point allowance system
+action selection
+alpha player
+Ameritrash
+analysis paralysis (AP)
+area control game
+area enclosure
+area-impulse
+area movement
+ARG
+auction game
+BBG
+balance
+beer & pretzels game
+betting
+BGG
+BGG Patron
+bidding game
+bits
+blind bid
+block wargame
+bluff
+BPA
+broken
+BSW
+card drafting
+CCG
+CDG
+chit / counter
+chrome
+closer
+COIN
+collectible game
+computational
+cooperative games
+con
+core group
+crayon rail system
+crib sheet
+CRT
+D6
+deck building game
+designer game
+dexterity game
+die / dice
+dice-fest
+dice drafting
+dice game
+dice rolling
+downtime
+dungeon crawl
+DM
+DRM
+dry
+dudes on a map
+economic game
+end-game
+euro / eurogame
+eurodude
+eurotrash
+expansion
+experience game
+F2F
+family game
+fart-factor
+fiddly
+filler
+FLGS
+Friendly Tie
+game abbreviations
+game system
+gameID
+gamer
+gamers' game
+gamey
+gateway game
+GBG
+geek
+geekBadge
+GeekBuddy
+GeekCoin
+GeekGold
+GeekLists
+GeekMod
+Geek of the Week
+german game
+Get it to the table
+GG
+GM
+going nuclear
+golden thumb
+GotW
+graphical user representation
+grognard
+GUR
+group think
+heavy
+heft factor
+hex
+IRL
+JASE
+kingmaker
+LARP
+leeching or leaching
+legacy game
+Living Card Game (LCG)
+light
+logged plays
+luck
+majority control game
+mass market game
+meaty
+mechanism
+meeples
+metagame
+metalist or meta-list
+microbadge
+mini/max
+miniatures game
+multiplayer game
+negotiation game
+nerd
+nis
+newbie
+NGF
+non-gamer
+OLGS
+OOP
+OOS
+OP
+opener
+operational
+overanalyze
+OverText
+parakeetitis
+parasitic conflict
+party game
+pasted on (theme)
+paste up
+patron
+patron's badge
+PBEM
+perfect information game
+petty diplomacy
+pie rule
+player interaction
+playtest
+plonk
+PM
+PnP
+point to point movement
+point salad game
+power creep
+press your luck game
+processional
+publisher abbreviations
+punch
+PvP
+Quarterbacking
+QuickBar
+QuickLink
+QuickPage
+race game
+random
+RAW
+re-creation
+reference card
+replay value
+RGB
+rock-paper-scissors
+roll-and-move
+RPG
+RSP
+rules lawyer
+SBW
+scenario
+secret unit deployment
+set-up
+simulation
+sleeve casualty
+solvable
+Spielfreak
+sprue
+step losses
+strategy
+tableau
+tableau builder
+tactics
+tag
+TCG
+TEC
+territory building
+teutonic
+Thematic Game
+theme
+tile-laying game
+train game
+trick-taking game
+troll
+turtling
+under-developed
+UT
+variant
+victory conditions
+VP
+wagering
+wargame
+waro / weuro
+WBC
+wiki
+WIP
+wantlist
+wishlist
+worker placement
+zero-sum
+ZoC
+Abstract: Conceptual, Theoretical, Nonrepresentational, Abstruse, Summary
+Abstract Strategy Game: Mind Game, Strategic Game, Intellectual Game, Pure Strategy Game, Tactical Game
+Accessory: Add-on, Supplement, Attachment, Extension, Enhancement
+Acting Game: Improvisation Game, Role-playing Game, Theatrical Game, Dramatic Game, Character Game
+Action Point Allowance System: APAS, Action Point System, Energy System, Activation System, Turn Point System
+Action Selection: Choice of Actions, Move Selection, Decision Making, Action Decision, Action Planning
+Alpha Player: Dominant Player, Leader Player, Controlling Player, Boss Player, Dictator Player
+Ameritrash: Thematic Game, American-style Game, Immersive Game, Luck-driven Game, Dice-heavy Game
+Analysis Paralysis (AP): Decision Paralysis, Choice Overload, Decision Fatigue, Decision Gridlock, Overthinking
+Area Control Game: Territory Control Game, Influence Game, Domination Game, Conquest Game, Region Control Game
+Area Enclosure: Territory Enclosure, Zone Enclosure, Land Enclosure, Area Containment, Space Enclosure
+Area-Impulse: Area Activation, Region Activation, Zone Impulse, Territory Impulse, Zone Activation
+Area Movement: Region Movement, Zone Movement, Territory Movement, Location Movement, Space Movement
+ARG: Alternate Reality Game, Interactive Story Game, Reality-bending Game, Puzzle-solving Game, Immersive Game
+Auction Game: Bidding Game, Bid-based Game, Auction-based Game, Auctioning Game, Sale Game
+BBG: BoardGameGeek, Board Game Community, Board Game Database, Game Enthusiasts, Board Game Hub
+Balance: Equilibrium, Fairness, Stability, Symmetry, Equality
+Beer & Pretzels Game: Casual Game, Light-hearted Game, Relaxing Game, Social Game, Easy-going Game
+Betting: Wagering, Gambling, Staking, Anteing, Placing Bets
+BGG: BoardGameGeek, Board Game Community, Board Game Database, Game Enthusiasts, Board Game Hub

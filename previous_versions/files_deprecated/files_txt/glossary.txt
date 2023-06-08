@@ -1,0 +1,228 @@
+abstract
+abstract strategy game
+accessory
+acting game
+action point allowance system
+action selection
+alpha player
+Ameritrash
+analysis paralysis
+AP
+area control game
+area enclosure
+areaimpulse
+area movement
+ARG
+auction game
+BBG
+balance
+beer & pretzels game
+betting
+BGG
+BGG Patron
+bidding game
+bits
+blind bid
+block wargame
+bluff
+BPA
+broken
+BSW
+card drafting
+CCG
+CDG
+chit
+counter
+chrome
+closer
+COIN
+collectible game
+computational
+cooperative games
+con
+core group
+crayon rail system
+crib sheet
+CRT
+D6
+deck building game
+designer game
+dexterity game
+die
+dice
+dice-fest
+dice drafting
+dice game
+dice rolling
+downtime
+dungeon crawl
+DM
+DRM
+dry
+dudes on a map
+economic game
+endgame
+euro
+eurogame
+eurodude
+eurotrash
+expansion
+experience game
+F2F
+family game
+fart-factor
+fiddly
+filler
+FLGS
+Friendly Tie
+game abbreviations
+game system
+gameID
+gamer
+gamers game
+gamey
+gateway game
+GBG
+geek
+geekBadge
+GeekBuddy
+GeekCoin
+GeekGold
+GeekLists
+GeekMod
+Geek of the Week
+german game
+Get it to the table
+GG
+GM
+going nuclear
+golden thumb
+GotW
+graphical user representation
+grognard
+GUR
+group think
+heavy
+heft factor
+hex
+IRL
+JASE
+kingmaker
+LARP
+leeching or leaching
+legacy game
+LCG
+light
+logged plays
+luck
+majority control game
+mass market game
+meaty
+mechanism
+meeples
+metagame
+metalist
+microbadge
+mini
+max
+miniatures game
+multiplayer game
+negotiation game
+nerd
+nis
+newbie
+NGF
+nongamer
+OLGS
+OOP
+OOS
+OP
+opener
+operational
+overanalyze
+OverText
+parakeetitis
+parasitic conflict
+party game
+pasted on
+theme
+paste up
+patron
+patron's badge
+PBEM
+perfect information game
+petty diplomacy
+pie rule
+player interaction
+playtest
+plonk
+PM
+PnP
+point to point movement
+point salad game
+power creep
+press your luck game
+processional
+publisher abbreviations
+punch
+PvP
+Quarterbacking
+QuickBar
+QuickLink
+QuickPage
+race game
+random
+RAW
+recreation
+reference card
+replay value
+RGB
+rockpaperscissors
+rollandmove
+roll
+RPG
+RSP
+rules lawyer
+SBW
+scenario
+secret unit deployment
+setup
+simulation
+sleeve casualty
+solvable
+Spielfreak
+sprue
+step losses
+strategy
+tableau
+tableau builder
+tactics
+tag
+TCG
+TEC
+territory building
+teutonic
+Thematic Game
+theme
+tilelaying game
+train game
+tricktaking game
+troll
+turtling
+under-developed
+UT
+variant
+victory conditions
+VP
+wagering
+wargame
+waro
+weuro
+WBC
+wiki
+WIP
+wantlist
+wishlist
+worker placement
+zero-sum
+ZoC

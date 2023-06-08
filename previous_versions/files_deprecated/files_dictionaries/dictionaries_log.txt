@@ -1,0 +1,70 @@
+01 OPENAI MANUA DICTIONARY - 10 TOPICS
+
+topic_names = {
+    0: "Enjoyable (?)",
+    1: "Product related",
+    # 2: "Original vs New",
+    2: "Too much rules",
+    3: "For experienced players",
+    # 4: "For new players",
+    4: "Easy to learn, hard to master",
+    5: "Interaction and management",
+    6: "Competitive strategies",
+    7: "Product quality",
+    8: "Too long or too random",
+    # 9: "Game mechanics"
+    9: "Main mechanics"
+}    
+
+02 CORPUS 0.01% DICTIONARY - 10 TOPICS
+
+topic_names = {
+    0: "(?)",
+    1: "Personal favourite",
+    2: "Good time with friends",
+    3: "Deckbuilder or resources management",
+    4: "Themes and artwork",
+    5: "Mechanics and randomness",
+    6: "Number of players (?)",
+    7: "Expansions and editions",
+    8: "Dungeons and dragons",
+    9: "Stategic war game"
+} 
+
+03 MIXED DICTIONARY 0.05% - 10, 20 TOPICS
+
+topic_names = {
+    0: "Expansion",
+    1: "Luck",
+    2: "Feel and look",
+    3: "Rules/Gameplay",
+    4: "Roleplay",
+    5: "Length",
+    6: "Mechanics",
+    7: "Competition",
+    8: "Groups/Favorite",
+    9: "Solo/Beginners"
+}
+
+topic_names = {
+    0: "Like",
+    1: "Solo/Like",
+    2: "Groups",
+    3: "Gameplay",
+    4: "Luck",
+    5: "Design",
+    6: "Space",
+    7: "Easy",
+    8: ".../Replayability",
+    9: "Mechanics 1",
+    10: "Mechanics 2",
+    11: "Factions/Strategy",
+    12: "...",
+    13: "Combat",
+    14: "Version",
+    15: "Like/Familiy",
+    16: "Length",
+    17: "Origin",
+    18: "Dungeon and Dragons",
+    19: ".../Components"
+}        
