@@ -1,0 +1,721 @@
+[1] ROW 39652:
+Very original. Excesive production (and price). Thematic, even narrative. I feel the replayability is limited, it will become repetitive over time.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🔴
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 0.00%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[2] ROW 32266:
+This is a relatively quick game that is actually very easy to teach and is a game my whole family enjoy. Not a particularly complex game, but one that is good to dig out when you want something that is quick to play.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 60.98%
+- LUCK: 0.00%
+- INTERACTION: 15.27%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[3] ROW 23835:
+Played it last year at Gencon (prototype copy) and this year at Gencon. I was impressed at the speed of play for a civ game. 6 players learned the game in 30min and played a full game in 90min. Honestly, it went too fast for me for a civ game. But, seems like one could shuffle scoring cards lower in the decks. This will be a great game for big player counts. Beautiful components. Got my KS copy. I really like this game! I think it plays well at 5 players, allowing a bit more engine building than at 6 players.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🔴
+DOWNTIME 🔴
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 16.63%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 8.44%
+
+--------------------------------------
+
+[4] ROW 2165:
+This game was more enjoyable than I expected, playing 2-player with Claire.  It's clear that the card draws are very important.  But I was able to just float along, not worrying too much about how I was doing.
+⚠️There is insufficient data for a precise analysis.
+
+Label comparison: 
+LUCK 🟢
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 20.67%
+- LUCK: 20.85%
+- INTERACTION: 20.48%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[5] ROW 12261:
+My review:  https://therewillbe.games/articles-boardgame-reviews/8708-arkham-horror-living-card-game-the-greatest-deck-construction-introduction-of-all-time-if-you-can-get-there  This game completely changed my view on deck construction games but the initial wall is almost unimaginably high until you grok that it actually is an unforgiving, action-limited, strategy game and how much content is actually required to start enjoying the game. It's a weird position to have a game you've played at least a hundred times and have spent a truly staggering amount of money on but cannot recommend wholeheartedly.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 26.88%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 4.98%
+
+--------------------------------------
+
+[6] ROW 31667:
+Genuinely fun, very thinking while also being fairly easy to 'get'. Probably a good SDJ candidate. I haven't played the advance game yet, but I think I'd like it a little more. On the other hand, this game, while great, doesn't scratch that hardcore euro itch for me. It's a game I would buy for others who come over and aren't necessarily into super hard games like I am. I'd rate it right inbetween 'good - I'm usually willing to play' and 'very good - enjoy playing and would suggest it' it's not quite that second one, because in the end, if I'm with people who'd be willing to play a heavier game, I'd always take them up on the heavier game over this one. But if I'm with easier going game people, then this is right up there with the best in that category.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 56.38%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[7] ROW 2053:
+So far, our 3p games all took around 3h, which is pretty long for any game, but all games were enjoyable and never felt long, i.e. it was only after the game ended that we realized how long it took.
+
+Label comparison: 
+DOWNTIME 🔴
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 0.00%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[8] ROW 33824:
+Solid entry-level game for new players.  Heavy tiles don't move in breezes. Good for playing outside and on cruise ship deck.  Needs a heavier counter token.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 14.76%
+- LUCK: 0.00%
+- INTERACTION: 12.20%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 14.76%
+
+--------------------------------------
+
+[9] ROW 6529:
+Some balance issues but still really fun. balance issues may just require more plays to iron out.
+
+⚠️There is insufficient data for a precise analysis.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🔴
+BASH THE LEADER 🟢
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 0.00%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 83.89%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[10] ROW 2685:
+[2023.Mar.25] An interesting and thematic game composed of many of moving parts, dials to turn, and levers to pull. With the multitude of choices, the game can quickly mire down into a bit of a slog. Also, a player's success seems to be quite dependent upon the "luck of the draw" with respect to how the various cards enter play. I'd play again, but it wouldn't be my 1st or 2nd choice.
+
+Label comparison: 
+INTERACTION 🔴
+LUCK 🟢
+COMPLEX OR COMPLICATED 🟡
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 6.89%
+- LUCK: 37.71%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 36.09%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[11] ROW 22246:
+Lots of points for style.  It really isn't window dressing: the theme fresh and it infused the game.  The concept and art are supercool.  There's also a couple of innovative mechanisms:  1)  the fact that you can sometimes take two actions on your turn if you planned things right (and no one foiled them).  2)  the upgrade mechanism of making one action more effective while simultaneously making another action cost less was great and provides for a lot of strategy.  But I'm afraid there aren't enough nice trees to add up to a forest.  Many mechanisms (movement, combat and the flow of controlling territory) are clunky and chaotic.  The way the game ends is simply unsatisfying.  The variable powers didn't sit right for me and seems a cheap way to get flavor and replayability at the expense of undue complexity and arguments about fairness.  There are also downtime issues...but I'm going to chalk this up to my poor patience and the fact that I've only played five player.
+
+Label comparison: 
+INTERACTION 🔴
+COMPLEX OR COMPLICATED 🟢
+DOWNTIME 🔴
+BASH THE LEADER 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 17.99%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 19.30%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 3.84%
+
+--------------------------------------
+
+[12] ROW 4060:
+(Played class: the State) The experience is excellent even though when we found out we have some rules played wrong in the game. The game has a perfect theme in which the mechanism (of each class) is well fitted in the theme while giving players immersive gaming experience. The game is dynamic and the traction of different classes is quite tight, hence giving me great impression on player interaction. However, the later stage of the game is a bit repetitive. I hope adding the expansions to the game may fix this problem. I am looking forward to play with expansions.
+
+Label comparison: 
+BOOKEEPING 🟢
+INTERACTION 🟢
+COMPLEX OR COMPLICATED 🟡
+BASH THE LEADER 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 30.72%
+- LUCK: 0.00%
+- INTERACTION: 11.90%
+- BASH THE LEADER: 22.62%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 8.00%
+
+--------------------------------------
+
+[13] ROW 28329:
+Definitely a 9.  Awesome world, concise rules. First manageable 9 characters' "true solo" for me.
+
+Label comparison: 
+BOOKEEPING 🔴
+INTERACTION 🟢
+COMPLEX OR COMPLICATED 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 12.92%
+- LUCK: 0.00%
+- INTERACTION: 41.37%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[14] ROW 37357:
+Winner of several BGG GOTY awards. Bought $20! Rating based on full play of 2 toons. System is more solo friendly with much easier setup. Tablespace is small enuf to fit my 20x34 gaming space so I can leave it setup. Tutorial is big improvement. Played 2 toons, but other toons seem uninteresting(flawed?) Rating=solo
+
+Label comparison: 
+BOOKEEPING 🔴
+INTERACTION 🟢
+COMPLEX OR COMPLICATED 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 6.93%
+- LUCK: 0.00%
+- INTERACTION: 6.46%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[15] ROW 37189:
+ENJOYMENT 8 MECHANICS 8 COMPLEXITY 8 REPLAYABILITY 3 UNMITIGATED LUCK FACTOR 8 GAME LENGTH 8 CLARITY OF RULES 9 COMPONENT QUALITY 1 PRICE/BUSINESS MODEL 1 X-FACTOR -10 ( I love Gloomhaven, but what kills this for me here is the quality of the components and the bad design of the packaging. A token tray is a good idea. But when all tokens don't fit loosely in, you spend way more time to make them fit back in than just putting them into zip bags. And this decision to abandon actual tiles for a low quality printed scenario booklet... on a 50€ game box it's unacceptable.)   FINAL RATING 6.3 
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+LUCK 🟢
+BOOKEEPING 🟢
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 18.70%
+- LUCK: 24.77%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 3.65%
+- BOOKEEPING: 3.59%
+
+--------------------------------------
+
+[16] ROW 20592:
+Engine building works nicely. Battles are the most boring aspect but I can live with that. Very solid and surprisingly fast game
+
+Label comparison: 
+DOWNTIME 🔴
+COMPLEX OR COMPLICATED 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 19.47%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 19.47%
+
+--------------------------------------
+
+[17] ROW 5898:
+Gameplay improves with more plays to learn each faction and how to counter the others, as well as a clearer understanding of the rules.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+BASH THE LEADER 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 42.89%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 15.21%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[18] ROW 3570:
+Loving this game. I try not to get caught up in hype but once this game clicked for my wife and I it quickly became one of our favorites. It can be a lift to get it going and it is a long game and table hog but it is in that sweet spot of long game that doesn’t feel like it drags (I have only played at 2 though)
+
+Label comparison: 
+DOWNTIME 🟢
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 0.00%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 12.84%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[19] ROW 28728:
+Very beautiful open-world storybook game featuring lots of fantastic Ryan Laukat art.  The storytelling feels very generous--you can read entries most turns and many entries have a whole tree of choices you can follow within a single explore action.  It feels like you can see and do an incredible amount in a single campaign and yet there feels like so much more to explore.  This is truly a remarkable feat.  The combat is interesting and provides a nice change of pace.  The fatigue and wound mechanisms are necessary to make there be consequences for exploring.  I like that you rarely fail but instead succeed with negative consequences that you later have to manage.  The rating is not higher because everything else feels pretty meh.  There are 9 characters with multiple abilities each and huge decks of ability cards, level cards, and adventure cards that you can use to upgrade your actions.  But while you might have 50-60 places to spend command, all the options feel very samey--more like small variants of a few core abilities than anything really cool.  And some of these are clearly better than others, so what happens is that you'll have 50 options, but you'll have 8-10 that you regularly choose while ignoring the rest.  The rulebook even says you can basically put some of your cards away to save table space.  So, while there are definitely strategic decisions, you will probably make a strategic decision once and then just spam that same option a dozen more times.  I really wish there was a tech tree or crafting rules or something that could make these options synergize into increasingly interesting abilities.  Also, the rulebook and cards often have ambiguity and there are tons of fiddly tokens to manage constantly.    Still, while this game is not one you'd want to play solely for the gameplay mechanics (I can't imagine ever using the Arcade mode) they all serve to support the phenomenal storytelling aspects, so the overall experience is still great.  I also appreciate the diverse cast of characters who have actual stories and personalities integrated into the adventure, which is so cool.   
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+BOOKEEPING 🟢
+LUCK 🟡
+INTERACTION 🟡
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 18.84%
+- LUCK: 1.61%
+- INTERACTION: 37.45%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 8.29%
+- BOOKEEPING: 1.63%
+
+--------------------------------------
+
+[20] ROW 2819:
+Not the most exciting game, but a really neat puzzle with a lot of easy to learn mechanism that integrate beautifully together.  Every game is different depending on the cards getting out. Some of the games are more interesting than others depending on the draw. If you accept that this is a game of optimization more than a game of strategy where you have control over eveything, it is a whole lot of fun.  
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+LUCK 🟢
+INTERACTION 🟡
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 16.88%
+- LUCK: 28.69%
+- INTERACTION: 7.35%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 14.75%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[21] ROW 6403:
+The asymmetrical play is a blast, the walkthrough is an excellent tool for teaching the game. This game is not for those who can't handle cutthroat play from their opponents. Turns can get pretty mean. Be prepared to have a lot of your stuff destroyed in one turn. Artwork is phenomenal.
+
+Label comparison: 
+INTERACTION 🔴
+BASH THE LEADER 🔴
+COMPLEX OR COMPLICATED 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 11.96%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[22] ROW 14751:
+Played with 3. On first play, I thought this was really fun. Lots of interesting decisions with some cool mechanics. It seems like there are a lot of paths to victory. I didn't like the personal goals, but there seems to be an official variant for that. I find tracks a little tough to read, but I think it's worth it to just get used to them. The endgame is kind of brutal. The end can come much faster than you might anticipate, and if you aren't ready, you will get smoked. I'm looking forward to trying more of it.
+
+Label comparison: 
+INTERACTION 🔴
+BOOKEEPING 🔴
+BASH THE LEADER 🟢
+COMPLEX OR COMPLICATED 🟡
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 5.90%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 28.08%
+- DOWNTIME: 13.63%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[23] ROW 586:
+I'm generally not much of a race game fan, but this one was pretty engaging. The deck-building and hand-management aspects of the game are clever, and the movement rules are solid and simple enough to not feel fiddly and distract from the game flow. I'm sure this solid design will rate even more highly with fans of the racing genre.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 14.18%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 19.07%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[24] ROW 31930:
+One of my favorite games!  It's perfect to play with family members who grew up playing Scrabble, Yahtzee, Gin, etc.  It's quick to teach and learn but still fun after many plays.  As a bonus, I really like the Box of Delights solo variant...it's a fun, quick puzzle.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🟡
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 36.80%
+- LUCK: 0.00%
+- INTERACTION: 7.95%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 20.94%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[25] ROW 11421:
+Yet another take on Arkham Horror, with more collectible aspect but still all the familiar and loved characters, monsters and arcane items.   This is a good coop card game, the deckbuilding aspect gives a fresh take on how to prepare for the adventure, but the actual contents are quite predictable, not fixing what isn't broken. One complain I have is, that the story cards (Acts) try to give a deeply immersing story, but then the actual player decks and encounters quite heavily break the suspension-of-disbelief. For example the story says you hear monsters outside, but then in actual encounters monsters directly attack you. More directed deck preparation could have fixed this.  Owned by a friend.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🟢
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 30.14%
+- LUCK: 0.00%
+- INTERACTION: 35.50%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[26] ROW 25628:
+Marvel Champions is excellent. While complicated, (which is a positive for me!) the game really puts you into the perspective of the characters, showcasing insane difficulty and unique cards and abilities. The game has INCREDIBLE replay-ability as it contains multiple different villains, with multiple different side villains, different heroes... The list goes on.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🔴
+INTERACTION 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 0.00%
+- LUCK: 0.00%
+- INTERACTION: 41.25%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[27] ROW 14694:
+It is this type of game that makes you wonder why Board Game Geek isn't changing name to Euro Game Geek. 8.3? Seriously? Multiplayer solitaire, 10-15 minutes downtime between turns,  hard to learn set of complex rules that makes your brain hurt, and yet this game is considered amazingly good? Lol...
+
+Label comparison: 
+DOWNTIME 🔴
+COMPLEX OR COMPLICATED 🟢
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 36.47%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[28] ROW 18423:
+Without a doubt my favorite game ever is Scythe. Infinite ways to play, cool, fun factions, and gorgeous art help set this game apart from all others.   My only criticism is that there are a couple rules not actually in the rulebook. Reference the creator’s (Jamey Stegmaier) Twitter OR Scythe’s Discord channel if you ever come across a situation not in the rulebook.
+
+Label comparison: 
+BOOKEEPING 🔴
+COMPLEX OR COMPLICATED 🟡
+BASH THE LEADER 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 68.16%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 8.69%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[29] ROW 33550:
+Very fun, casual. 1 v 1 is a bit more difficult and also more interesting. But the more players, the easier and more relaxed the game is (less strategic, more random).
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+LUCK 🟡
+INTERACTION 🟡
+DOWNTIME 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 28.47%
+- LUCK: 19.51%
+- INTERACTION: 14.76%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 24.88%
+- BOOKEEPING: 28.47%
+
+--------------------------------------
+
+[30] ROW 21785:
+I would give this a higher score if it was a bit more interactive with 2 players.
+
+⚠️There is insufficient data for a precise analysis.
+
+Label comparison: 
+INTERACTION 🔴
+COMPLEX OR COMPLICATED 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 76.67%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 76.67%
+
+--------------------------------------
+
+[31] ROW 21351:
+Very strategic and complete game with a superb production. It beautifully balances self-management with interaction and fights. The mechanics are smooth yet a bit hard to optimise at first. You will get used to them once you finish your first game so it is worth giving it a few tries.
+
+Label comparison: 
+INTERACTION 🔴
+COMPLEX OR COMPLICATED 🟢
+BASH THE LEADER 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 14.74%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 47.03%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 14.74%
+
+--------------------------------------
+
+[32] ROW 3795:
+Feels like Underwater Cities with a bit of Terraforming Mars' card draw luck. Harder to teach and might scare off newcomers since it has more efficiency-based tactics compared to the previous two. The theme of building a zoo does not seem to usually be the best way to win (going for conservation points quickly).
+
+Label comparison: 
+LUCK 🟢
+COMPLEX OR COMPLICATED 🟢
+BASH THE LEADER 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 18.34%
+- LUCK: 24.83%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 15.43%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[33] ROW 28275:
+Complexity: 3/5 Depth: 4/5 Interaction: 2/5 Luck: 2/5 Thematic: 5/5 Replayability: 4/5  Main Course  ผู้เล่นจะได้รับบทเป็นชนเผ่าไวกิ้ง ออกล่าสัตว์ บุกเบิกดินแดนใหม่ ออกปล้นสะดม เพื่อเอาสมบัติมาแสดงความมั่งคัง จบเกมใครที่ได้รับคะแนนเยอะสุดเป็นฝ่ายชนะ เกมสามารถเล่นได้แบบ 6 รอบ หรือ 7 รอบจบ   โดยในแต่ละรอบจะพลัดกันวางคนงานเพื่อทำแอคชั่นในช่องต่างๆ บางแถวต้องใช้สองคนขึ้นไป แต่ผลของแอคชั่นก็ดีขึ้นตามสัดส่วน โดยที่  resource ในเกมมีสี่ระดับ คือ ส้ม แดง เขียว ฟ้า โดยแต่ละสีจะนำมาวางบนเกาะบ้านเกิด หรือวางในบ้าน ตรงจุดนี้เองคือการถมปิดแต้มลบ หรือล้อมเพื่อเอาโบนัส income แต่ละชิ้นก็จะมีรูปทรงและขนาดที่แตกต่างกันออกไปอีกด้วยทำให้เกิด puzzle ในการวาง  จุดสนุกคือการแย่ง action ตาม concept ของ worker ทั่วไป มีสายให้เลือกเล่น โดยเฉพาะตัวเสริมช่วยเพิ่มท่าขึ้นมาอีก theme ก็ค่อนข้างสมเหตุสมผลช่วยให้อินระหว่างเล่นได้ ข้อเสียเป็นเรื่อง interaction ระหว่างผู้เล่นที่มีน้อยเพราะเอาของที่ได้มาวางที่บอร์ดส่วนตัวของแต่ละคน แถบไม่ได้สนใจบอร์ดของคนอื่นเลย แต่ก็เล่นได้เพลินๆ โดยรวมเป็นเกมที่ดีอีกเกมนึง  (2022-12-7)
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+INTERACTION 🔴
+LUCK 🟢
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 8.92%
+- LUCK: 8.98%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 8.92%
+
+--------------------------------------
+
+[34] ROW 28003:
+It's an excellent game, just a bit too much - to set up, to teach, to fit on the table, and to remember. Which would still be OK, however the theme doesn't resonate with me. +A Feast for Odin, The Norwegians, +Mini Expansion #2
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+BOOKEEPING 🟢
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 57.95%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 25.08%
+
+--------------------------------------
+
+[35] ROW 35877:
+It is a fine euro. Light, quick to learn, and quick to play competently, but it does not feel like I had much of a chance to make good plays, especially playing 4 player where the available tiles change drastically between turns.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+DOWNTIME 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 60.72%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 23.83%
+- BOOKEEPING: 37.28%
+
+--------------------------------------
+
+[36] ROW 21406:
+This game has so much going for it, many ways to win, variety in the staring setups (random faction and player board).  A great game.
+
+Label comparison: 
+LUCK 🟢
+BASH THE LEADER 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 0.00%
+- LUCK: 12.12%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 42.27%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 0.00%
+
+--------------------------------------
+
+[37] ROW 19683:
+Feels like a modern-age classic. It's big, absolutely beautiful and quite easy to learn. It manages to be arguably the most thematic of all eurogames while still being clever and with very few random elements.  On the downside: not enough player interaction, especially with fewer players.
+
+Label comparison: 
+COMPLEX OR COMPLICATED 🟢
+LUCK 🟢
+INTERACTION 🔴
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 50.08%
+- LUCK: 13.07%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 24.66%
+
+--------------------------------------
+
+[38] ROW 32829:
+Fun at lower player counts only. This game can actually be a bit cut-throat at 2-3 players. Denying opponents tiles they need, or even better, choosing tiles in a way that forces them to fill their floor with negative points. 
+
+Label comparison: 
+BASH THE LEADER 🔴
+COMPLEX OR COMPLICATED 🟡
+BOOKEEPING 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 61.95%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 50.31%
+
+--------------------------------------
+
+[39] ROW 36202:
+What really makes this game shine is how easy it is to teach. Within one game most players have a good understanding of strategy that they want to pursue.  The game is abstract, but not math-y enough to lose players' attention. The player mats are made of thick plastic coated cardboard and the tiles are a nice painted resin. This is a fantastic game for a picnic table, as the wind wont blow the heavy plastic tiles out of the way.  What could be done better is the point tracking system.  That small cube always slides around the slippery surface of the player boards.
+
+Label comparison: 
+BOOKEEPING 🟢
+COMPLEX OR COMPLICATED 🟢
+BASH THE LEADER 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 54.14%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 20.96%
+- DOWNTIME: 0.00%
+- BOOKEEPING: 24.56%
+
+--------------------------------------
+
+[40] ROW 23647:
+Game just feels a bit bloated with too much to keep track of and without tight choices. Seven Wonders plus Concordia without the elegance of either.
+
+Label comparison: 
+BOOKEEPING 🟢
+INTERACTION 🔴
+COMPLEX OR COMPLICATED 🟡
+DOWNTIME 🟡
+
+Topic estimation: 
+- COMPLEX OR COMPLICATED: 27.77%
+- LUCK: 0.00%
+- INTERACTION: 0.00%
+- BASH THE LEADER: 0.00%
+- DOWNTIME: 16.16%
+- BOOKEEPING: 27.77%
